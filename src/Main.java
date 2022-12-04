@@ -39,7 +39,5 @@ public class Main {
             System.out.println("Мест нет");
         System.out.println();
 
-        // задача 4
-        System.out.println("задача 4");
     }
     }
